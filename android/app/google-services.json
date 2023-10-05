@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "982848442527",
+    "project_id": "osteodoc-b545a",
+    "storage_bucket": "osteodoc-b545a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982848442527:android:7bcce78903f5dea097d2aa",
+        "android_client_info": {
+          "package_name": "health.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982848442527-e9h9o8q5fknrg197f234g2pqa8v033q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGfHbAGDt1uVX1WstRUzX4nSrLfopvcdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982848442527-e9h9o8q5fknrg197f234g2pqa8v033q6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982848442527-os5jmgg4bo93adadrutcrbgeglu8vemt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "health.ai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
